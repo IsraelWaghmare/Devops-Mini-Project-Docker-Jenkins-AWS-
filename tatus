@@ -1,0 +1,58 @@
+[33m573dcf0[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update index.html
+[33m6e00c01[m Update index.html
+[33m54d5595[m Merge pull request #12 from Chaitannyaa/feature/volume
+[33mdfaf61b[m Add docker volume and .gitignore
+[33m2016742[m Merge pull request #9 from RishikeshOps/patch-1
+[33mfb87d40[m Merge pull request #10 from RishikeshOps/patch-2
+[33m8dedc37[m Merge pull request #11 from RishikeshOps/patch-3
+[33m48b3a0a[m Added files for db
+[33mc45a38e[m Added files for db
+[33ma059c0e[m Added files for db
+[33md7b58be[m Added k8s deployments
+[33m45e3239[m Update index.html
+[33mf7f4915[m Merge branch 'develop' of https://github.com/LondheShubham153/django-todo-cicd into develop
+[33m7b5c7c4[m added docker compose
+[33m91e72f5[m Update index.html
+[33md20c11e[m Added server code
+[33ma8faed3[m Added redirection of homepage to /todos endpoint
+[33m68ba07a[m Update README.md
+[33m6fb2cc7[m Update README.md
+[33m85214a7[m Merge pull request #5 from shreys7/feature/directory-structure-change
+[33mfa00a83[m Added .gitignore file
+[33m79162d5[m Changed the whole directory structure
+[33m1b62be5[m Update README.md
+[33m24a3e1b[m Update README.md
+[33mb684b16[m Added screenshot of the todo app and added .DS_Store to .gitignore
+[33m21fcb9b[m Update README.md
+[33mc77ce25[m Update Readme.md
+[33m7e15f60[m Merge pull request #3 from shreys7/feature/UI-changes
+[33me31f3e5[m Wrapped the differnt component divs inside bootstrap grid to have consistency
+[33me6f5042[m Moved the whole todo UI to center and changed button stylings
+[33me210066[m Merge pull request #2 from shreys7/feature/display-status-todo
+[33m38c78aa[m Added support for displaying the status via a checkbox
+[33m0b3efae[m Merge pull request #1 from shreys7/feature/todos-app
+[33m3122d46[m Added support for adding and deleting a todo
+[33m90cb914[m Added support for including our own css files
+[33m55fb942[m Removing edit functionality for now
+[33md4867c0[m Added functionality to delete a todo
+[33m7bb6ac2[m Added base.html for bootstrap, and form and index for editing and viewing todos
+[33mb6e8039[m Added urls.py and views.py inside todos app
+[33me532e1d[m Updated attribute name from name to title of Todo model
+[33maeb7e8c[m Removed the deadline field for now
+[33mc2f5056[m Added migrations for Todo model changes
+[33m551f827[m Added created_at and updatef_at auto fields in Todo model
+[33m2d94b39[m Corrected typos in todos/index.html
+[33me5251a4[m fixed untracked files
+[33m6f00c52[m Added a template index.html template file for list of todos
+[33m98dc87c[m Added a sample gegeric listview for todo list
+[33m7456e32[m Updated settings.py to have timezone Asia/Kolkata
+[33m4573c2b[m Updated .gitignore file
+[33md1be54b[m Added a gitignore file
+[33mc7e8a1d[m Registered Todos model to admin
+[33mfa737a3[m Created superuser
+[33m52be746[m Added todos/ path to point to todos.urls in the main urls.py
+[33m18c8198[m Created model Todo, made migrations and migrated to create entry in database
+[33m3c6ef7a[m Registered todos app in settings.py via TodosConfig
+[33m634ac5f[m Created a todos folder for handling tht todos app
+[33mcb41b10[m Initial commit
+[33m6c286c7[m Initial commit
